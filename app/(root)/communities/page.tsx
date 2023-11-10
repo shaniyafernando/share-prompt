@@ -2,7 +2,9 @@ import React from 'react'
 
 async function page() {
   return (
-    <div>page</div>
+    <>
+    <h1 className="head-text">Communities</h1>
+  </>
   )
 }
 
